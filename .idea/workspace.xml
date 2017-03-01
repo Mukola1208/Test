@@ -2,83 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="574e7a22-9129-4198-b0aa-26737f437b72" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/empty" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Controller/Component/empty" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Model/Behavior/empty" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Model/Entity/empty" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Model/Table/empty" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/View/Helper/empty" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/Fixture/empty" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/TestCase/Controller/Component/empty" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/TestCase/Model/Behavior/empty" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/TestCase/View/Helper/empty" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/font/cakedingbats-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/font/cakedingbats-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/font/cakedingbats-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/font/cakedingbats-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/img/cake-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/img/cake.icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/img/cake.power.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/js/empty" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/test1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/cake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/cake.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/cake.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/Migrations/20170301202343_CreateUser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/app.default.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/bootstrap_cli.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/paths.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/routes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/schema/i18n.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/schema/sessions.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Console/Installer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Controller/AppController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Controller/ErrorController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Controller/PagesController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Shell/ConsoleShell.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Template/Element/Flash/default.ctp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Template/Element/Flash/error.ctp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Template/Element/Flash/success.ctp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Template/Email/html/default.ctp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Template/Email/text/default.ctp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Template/Error/error400.ctp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Template/Error/error500.ctp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Template/Layout/Email/html/default.ctp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Template/Layout/Email/text/default.ctp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Template/Layout/ajax.ctp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Template/Layout/default.ctp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Template/Layout/error.ctp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Template/Layout/rss/default.ctp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Template/Pages/home.ctp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/View/AjaxView.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/View/AppView.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/TestCase/ApplicationTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/TestCase/Controller/PagesControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/css/cake.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/css/home.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/font/cakedingbats-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/img/cake.logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Controller/PagesController.php" afterPath="$PROJECT_DIR$/src/Controller/PagesController.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -114,11 +38,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PagesController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Controller/PagesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -134,6 +68,7 @@
       <list>
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/Controller/PagesController.php" />
       </list>
     </option>
   </component>
@@ -202,6 +137,38 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="config" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -228,12 +195,12 @@
       <updated>1488395938398</updated>
       <workItem from="1488395940131" duration="2452000" />
       <workItem from="1488403668044" duration="691000" />
-      <workItem from="1488405173084" duration="53000" />
+      <workItem from="1488405173084" duration="664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3196000" />
+    <option name="totallyTimeSpent" value="3807000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -246,9 +213,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -314,6 +281,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/PagesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
